@@ -2,7 +2,7 @@
 
 ## Info
 
-Author: Michael Slain
+Author: Michael Slain <br>
 Acknowledgements: Mr. Kuszmal
 
 ## Classes Outline
