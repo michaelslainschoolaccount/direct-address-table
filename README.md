@@ -43,7 +43,7 @@ Acknowledgements: Mr. Kuszmal
 -   _constructor_
     -   **input:** nothing
     -   **output:** nothing
-    -   **effect:** sets the size of the table to the default value (100,000)
+    -   **effect:** sets the size of the table to the default value (10)
 -   _constructor_
     -   **input:** the size of the table (integer)
     -   **output:** nothing
