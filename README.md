@@ -12,17 +12,13 @@ Acknowledgements: Mr. Kuszmal
 **Methods**
 
 -   _constructor_
-
     -   **input:** nothing
     -   **output:** nothing
     -   **effect:** sets the default value of the key (`1`) and the default value of the value (`"bruh"`)
-
 -   _constructor_
-
     -   **input:** the key (integer), the value (string)
     -   **output:** nothing
     -   **effect:** sets the key and value of the ndoe to what is provided by the input
-
 -   getKey
     -   **input:** nothing
     -   **output:** integer
